@@ -49,7 +49,7 @@ j = 0
 while j <= maximum:
     print (time.process_time())
     if  time.process_time() - starttime >= TIMEMAX :
-        print("Привышено время выполнения программы :",end='')
+        print("Превышено время выполнения программы :",end='')
         print (time.process_time())
         print("Количество страниц :  ",end='')
         print(len(page))
@@ -59,7 +59,7 @@ while j <= maximum:
     urls = urlall[j]
     for link1 in urls :
         if  time.process_time() - starttime >= TIMEMAX :
-            print("Привышено время выполнения программы :",end='')
+            print("Превышено время выполнения программы :",end='')
             print (time.process_time())
             print("Количество страниц :  ",end='')
             print(len(page))
