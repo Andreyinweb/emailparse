@@ -16,13 +16,14 @@ python3
 
 * In the config_parse.py file, change site = 'example.com' to the desired site.
 
-# Running the application
+# Running the application                       
 
 * ### English
 * $ chmod a+x parseemail.py
-* $ ./parseemail.py
-
+* $ ./parseemail.py                     
+ <br/> 
+     
 * ### Russian language
 * $ chmod a+x parse_email_ru.py
-* $ ./parse_email_ru.py
+* $ ./parse_email_ru.py                        
 
