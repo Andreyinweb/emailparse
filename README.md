@@ -10,20 +10,19 @@ python3
 
 # Setting up
 
-Clone the repo
+* Clone the repo
+* $ git clone <https://github.com/Andreyinweb/emailparse.git>
+* $ cd emailparse
 
-$ git clone https://github.com/Andreyinweb/emailparse.git
-$ cd emailparse
-
-In the config_parse.py file, change site = 'example.com' to the desired site.
+* In the config_parse.py file, change site = 'example.com' to the desired site.
 
 # Running the application
 
-English
-$ chmod a+x parseemail.py
-$ ./parseemail.py
+* English
+* $ chmod a+x parseemail.py
+* $ ./parseemail.py
 
-Russian language
-$ chmod a+x parse_email_ru.py
-$ ./parse_email_ru.py
+* Russian language
+* $ chmod a+x parse_email_ru.py
+* $ ./parse_email_ru.py
 
