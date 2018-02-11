@@ -1,4 +1,4 @@
-#Script for parsing 
+# Script for parsing 
 
 python3
 
@@ -8,7 +8,7 @@ requests
 re
 time
 
-#Setting up
+# Setting up
 
 Clone the repo
 
