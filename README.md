@@ -19,11 +19,11 @@ python3
 # Running the application                       
 
 * ### English
-* $ chmod a+x parseemail.py
+* $ chmod 755 parseemail.py
 * $ ./parseemail.py                     
  <br/> 
      
 * ### Russian language
-* $ chmod a+x parse_email_ru.py
+* $ chmod 755 parse_email_ru.py
 * $ ./parse_email_ru.py                        
 
