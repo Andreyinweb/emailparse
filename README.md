@@ -3,11 +3,10 @@
 python3
 
 # Dependencies used
-bs4
-***
-requests
-re
-time
+* bs4
+* requests
+* re
+* time
 
 # Setting up
 
