@@ -4,6 +4,7 @@ python3
 
 # Dependencies used
 bs4
+***
 requests
 re
 time
